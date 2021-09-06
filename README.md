@@ -25,16 +25,12 @@ Here are some ideas to get you started:
 <div class="row">
   <div class="col">
     <img src="static/gifs/attts1.gif" width="400">
-  </div>
-  <div class="col">
     <img src="static/gifs/attts2.gif" width="400">
   </div>
 </div>
 <div class="row">
   <div class="col">
     <img src="static/gifs/attts3.gif" width="400">
-  </div>
-  <div class="col">
     <img src="static/gifs/attts4.gif" width="400">
   </div>
 </div>
