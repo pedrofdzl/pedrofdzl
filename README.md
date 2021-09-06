@@ -51,6 +51,19 @@ Here are some ideas to get you started:
 <p>Genguin is a lightweight, easy to use, and simple educational platform in which independent teachers or tutors can upload assignments, quizzes, lectures, and blog post to different groups organized as classes for their students to see, answer and comment on; they can do this from any device with a web browser. My team and I are still working on this project, giving it an interesting twist to differentiate it from all of the other educational platforms. This project was originally made for HackMTY21.
 </p>
 
+<div class="row">
+  <div class="col">
+    <img src="static/images/Capture.PNG" width="400">
+    <img src="static/images/Capture2.PNG" width="400">
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <img src="static/images/Capture3.PNG" width="400">
+    <img src="static/images/Capture4.PNG" width="400">
+  </div>
+</div>
+
 <h2 align="left">Skills</h2>
 <h3>Languages:</h3>
 <h3>
