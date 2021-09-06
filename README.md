@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: through an email or instagram dm: pedro_fdzl
 - ⚡ Fun fact: I'm a guitar player
 
-<h5>🔻Scroll down to see my portfolio🔻</h5>
+<h4>🔻Scroll down to see my portfolio🔻</h4>
 
 <h1 align="left">My Skills</h1>
 <h4>Languages:</h4>
