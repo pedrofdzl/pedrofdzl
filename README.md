@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I'm a Computer Science Engineer student on my third semester. I love to learn new thing and to implement them in my personal projects.</p>
+<p>I'm a Computer Science Engineer student on my third semester at ITESM. I like to learn new thing and to implement them in my personal projects.</p>
