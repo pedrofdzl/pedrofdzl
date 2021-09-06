@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 <p>I'm a Computer Science Engineer student on my third semester at ITESM. I like to learn new thing and to implement them in my personal projects.</p>
 
+- 🔭 I’m currently working on a Trip to the Sun and Genuin Physics
+- 💬 Ask me about anything
+- 📫 How to reach me: through an email
+- ⚡ Fun fact: I'm a guitar player
+
 <h1 align="left">My Skills</h1>
 <h4>Languages:</h4>
 <h3>
