@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Trip to the Sun and Genguin Physics
 - 💬 Ask me about anything
-- 📫 How to reach me: through an email or instagram dm: pedro_fdzl
+- 📫 How to reach me: through an email.
 - ⚡ Fun fact: I'm a guitar player
 
 <h4>🔻Scroll down to see my portfolio🔻</h4>
