@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Trip to the Sun and Genuin Physics
 - 💬 Ask me about anything
-- 📫 How to reach me: through an email
+- 📫 How to reach me: through an email or instagram dm: pedro_fdzl
 - ⚡ Fun fact: I'm a guitar player
 
 <h5>🔻Scroll down to see my portfolio🔻</h5>
