@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, let me tell you a bit about me.</h1>
+<h1 align="center">Hi👋, let me tell you a bit about myself.</h1>
 
 <!--
 **pedrofdzl/pedrofdzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
