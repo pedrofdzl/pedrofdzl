@@ -23,12 +23,20 @@ Here are some ideas to get you started:
 <p>This project of mine is the one that got me into the beautiful world of code back in 2019, I learned a lot of C#, animation, physics engines, and about game engines (Unity) from this project, since all of it is made by myself. It's a single player story-based video game, set in the near-future. I'm currently still working on it.</p>
 
 <div class="row">
-  <img src="static/gifs/attts1.gif">
-  <img src="static/gifs/attts2.gif">
+  <div class="col">
+    <img src="static/gifs/attts1.gif">
+  </div>
+  <div class="col">
+    <img src="static/gifs/attts2.gif">
+  </div>
 </div>
 <div class="row">
-  <img src="static/gifs/attts3.gif">
-  <img src="static/gifs/attts4.gif">
+  <div class="col">
+    <img src="static/gifs/attts3.gif">
+  </div>
+  <div class="col">
+    <img src="static/gifs/attts4.gif">
+  </div>
 </div>
 
 <h3 align="left">Genguin Physics</h3>
