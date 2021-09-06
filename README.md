@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 <div class="row">
   <div class="col">
     <img src="static/gifs/gphysics2.gif" width="400">
-  </div>
-  <div class="col">
     <img src="static/gifs/gphysics1.gif" width="400">
   </div>
 </div>
