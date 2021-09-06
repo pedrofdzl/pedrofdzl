@@ -42,6 +42,15 @@ Here are some ideas to get you started:
 <h3 align="left">Genguin Physics</h3>
 <p>GGenguin Physics is an online app built on the Flask framework, with it's backend written in Python. It's purpose is to help high-school students understand the steps necessary to solve the most common physics problems seen in highschool. This app aims to help out students with a friendly interface and a well thought-out backend. This project, as any other, inspires me to learn and grow as a developer.</p>
 
+<div class="row">
+  <div class="col">
+    <img src="static/gifs/gphysics2.gif" width="400">
+  </div>
+  <div class="col">
+    <img src="static/gifs/gphysics1.gif" width="400">
+  </div>
+</div>
+
 <h3 align="left">Genguin Education</h3>
 <p>Genguin is a lightweight, easy to use, and simple educational platform in which independent teachers or tutors can upload assignments, quizzes, lectures, and blog post to different groups organized as classes for their students to see, answer and comment on; they can do this from any device with a web browser. My team and I are still working on this project, giving it an interesting twist to differentiate it from all of the other educational platforms. This project was originally made for HackMTY21.
 </p>
