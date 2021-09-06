@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I'm a Computer Science Engineering student on my third semester at ITESM. I like to learn new thing and to implement them in my personal projects.</p>
+<p>I'm a Computer Science Engineering student on my third semester at ITESM. I like to learn new thing and to implement them on my personal projects.</p>
 
 - 🔭 I’m currently working on a Trip to the Sun and Genuin Physics
 - 💬 Ask me about anything
