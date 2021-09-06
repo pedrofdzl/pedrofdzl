@@ -1,4 +1,4 @@
-<h3>Hi, let me tell you a bit about me</h3>
+<h1>Hi, let me tell you a bit about me</h1>
 
 <!--
 **pedrofdzl/pedrofdzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>I'm a Computer Science Engineer student on my third semester. I love to learn new thing and to implement them in my personal projects.</p>
