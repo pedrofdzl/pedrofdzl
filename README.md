@@ -46,6 +46,8 @@ Here are some ideas to get you started:
     <img src="static/gifs/gphysics1.gif" width="400">
   </div>
 </div>
+<div class="row">
+</div>
 
 <h3 align="left">Genguin Education</h3>
 <p>Genguin is a lightweight, easy to use, and simple educational platform in which independent teachers or tutors can upload assignments, quizzes, lectures, and blog post to different groups organized as classes for their students to see, answer and comment on; they can do this from any device with a web browser. My team and I are still working on this project, giving it an interesting twist to differentiate it from all of the other educational platforms. This project was originally made for HackMTY21.
