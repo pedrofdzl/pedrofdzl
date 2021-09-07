@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>I'm a Computer Science Engineering student on my third semester at ITESM. I like to learn new things and to implement them on my personal projects.</p>
 
-- 🔭 I’m currently working on a Trip to the Sun and Genguin Physics
+- 🔭 I’m currently working on A Trip to the Sun and Genguin Physics
 - 💬 Ask me about anything
 - 📫 How to reach me: through an email
 - ⚡ Fun fact: I'm a guitar player
