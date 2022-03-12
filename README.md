@@ -106,20 +106,20 @@ Here are some ideas to get you started:
 
 <div class="row">
   <div class="col">
-    <img src="static/images/inter6.PNG" width="400">
-    <img src="static/images/inter1.PNG" width="400">
+    <img src="static/images/inter6.png" width="400">
+    <img src="static/images/inter1.png" width="400">
   </div>
 </div>
 <div class="row">
   <div class="col">
-    <img src="static/images/inter2.PNG" width="400">
-    <img src="static/images/inter3.PNG" width="400">
+    <img src="static/images/inter2.png" width="400">
+    <img src="static/images/inter3.png" width="400">
   </div>
 </div>
 <div class="row">
   <div class="col">
-    <img src="static/images/inter4.PNG" width="400">
-    <img src="static/images/inter5.PNG" width="400">
+    <img src="static/images/inter4.png" width="400">
+    <img src="static/images/inter5.png" width="400">
   </div>
 </div>
 
