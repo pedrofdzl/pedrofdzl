@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 </div>
 
 <h3 align="left">Asuka Discord Bot</h3>
-<p>Asuka was created out of curiosity, since a friend and I wanted to learn about API's so we decided to take a dive into Discord's API to write a bot in python that lets users play a game of tiktaktoe, players can challenge their friends, accept or reject invites to play, win, lose and tie games, as well as forefitting.</p>
+<p>Asuka was created out of curiosity, since a friend and I wanted to learn about API's so we decided to take a dive into Discord's API to write a bot in python that lets users play a game of tic-tac-toe, players can challenge their friends, accept or reject invites to play, win, lose and tie games, as well as forefitting.</p>
 
 <div class="row">
   <div class="col">
