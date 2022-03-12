@@ -78,9 +78,9 @@ Here are some ideas to get you started:
 
 <div class="row">
   <div class="col">
-    <img src="static/images/asuka.png" width="400">
-    <img src="static/images/asuka2.png" width="400">
-    <img src="static/images/asuka3.png" width="400">
+    <img src="static/images/asuka.png" height="300">
+    <img src="static/images/asuka2.png" height="300">
+    <img src="static/images/asuka3.png" height="300">
   </div>
 </div>
 
