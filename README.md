@@ -73,6 +73,17 @@ Here are some ideas to get you started:
   </div>
 </div>
 
+<h3 align="left">Asuka Discord Bot</h3>
+<p>Asuka was created out of curiosity, since a friend and I wanted to learn about API's so we decided to take a dive into Discord's API to write a bot in python that lets users play a game of tiktaktoe, players can challenge their friends, accept or reject invites to play, win, lose and tie games, as well as forefitting.</p>
+
+<div class="row">
+  <div class="col">
+    <img src="static/images/asuka.png" width="400">
+    <img src="static/images/asuka2.png" width="400">
+    <img src="static/images/asuka3.png" width="400">
+  </div>
+</div>
+
 <h3 align="left">A Trip to the Sun</h3>
 <p>This project of mine is the one that got me into the beautiful world of code back in 2019, I learned a lot of C#, animation, physics engines, and about game engines (Unity) from this project, since all of it is made by myself. It's a single player story-based video game, set in the near-future. I'm currently still working on it as a hobby project.</p>
 
