@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <h1 align="left">Some of my projects</h1>
 
 <h3 align="left">Genguin Physics</h3>
-<p>Genguin Physics is an online app built originaly on the Flask framework and was later migrated to Django, with it's backend written in Python. It's purpose is to help high-school students understand the steps necessary to solve the most common physics problems seen in highschool. This app aims to help out students with a friendly interface and a well thought-out backend. This project, as any other, inspires me to learn and grow as a developer.</p>
+<p>Genguin Physics is a fully responsive online app built originaly on the Flask framework and was later migrated to Django, with it's backend written in Python. It's purpose is to help high-school students understand the steps necessary to solve the most common physics problems seen in highschool. This app aims to help out students with a friendly interface and a well thought-out backend. This project, as any other, inspires me to learn and grow as a developer.</p>
 
 <div class="row">
   <div class="col">
