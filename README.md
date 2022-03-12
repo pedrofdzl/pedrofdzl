@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 <div class="row">
   <div class="col">
     <img src="static/images/inter6.png" width="400">
-    <img src="static/images/inter1.png" width="400">
+    <img src="static/images/inter.png" width="400">
   </div>
 </div>
 <div class="row">
