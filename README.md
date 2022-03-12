@@ -79,7 +79,6 @@ Here are some ideas to get you started:
   <div class="col">
     <img src="static/images/genguin_2.png" width="400">
     <img src="static/images/genguin_3.png" width="400">
-    <img src="static/images/genguin_3.png" width="400">
     <img src="static/images/genguin_4.png" width="400">
     <img src="static/images/genguin_5.png" width="400">
     <img src="static/gifs/genguin_1.gif" width="400">
