@@ -56,22 +56,6 @@ Here are some ideas to get you started:
 
 <h1 align="left">Some of my projects</h1>
 
-<h3 align="left">A Trip to the Sun</h3>
-<p>This project of mine is the one that got me into the beautiful world of code back in 2019, I learned a lot of C#, animation, physics engines, and about game engines (Unity) from this project, since all of it is made by myself. It's a single player story-based video game, set in the near-future. I'm currently still working on it.</p>
-
-<div class="row">
-  <div class="col">
-    <img src="static/gifs/attts1.gif" width="400">
-    <img src="static/gifs/attts2.gif" width="400">
-  </div>
-</div>
-<div class="row">
-  <div class="col">
-    <img src="static/gifs/attts3.gif" width="400">
-    <img src="static/gifs/attts4.gif" width="400">
-  </div>
-</div>
-
 <h3 align="left">Genguin Physics</h3>
 <p>Genguin Physics is an online app built on the Flask framework, with it's backend written in Python. It's purpose is to help high-school students understand the steps necessary to solve the most common physics problems seen in highschool. This app aims to help out students with a friendly interface and a well thought-out backend. This project, as any other, inspires me to learn and grow as a developer.</p>
 
@@ -85,6 +69,22 @@ Here are some ideas to get you started:
     <img src="static/gifs/genguin_2.gif" width="400">
     <img src="static/gifs/genguin_3.gif" width="400">
     <img src="static/gifs/genguin_6.gif" width="400">
+  </div>
+</div>
+
+<h3 align="left">A Trip to the Sun</h3>
+<p>This project of mine is the one that got me into the beautiful world of code back in 2019, I learned a lot of C#, animation, physics engines, and about game engines (Unity) from this project, since all of it is made by myself. It's a single player story-based video game, set in the near-future. I'm currently still working on it.</p>
+
+<div class="row">
+  <div class="col">
+    <img src="static/gifs/attts1.gif" width="400">
+    <img src="static/gifs/attts2.gif" width="400">
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <img src="static/gifs/attts3.gif" width="400">
+    <img src="static/gifs/attts4.gif" width="400">
   </div>
 </div>
 
