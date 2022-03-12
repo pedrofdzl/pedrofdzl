@@ -106,6 +106,23 @@ Here are some ideas to get you started:
 
 <div class="row">
   <div class="col">
+    <img src="static/images/Capture.PNG" width="400">
+    <img src="static/images/Capture2.PNG" width="400">
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <img src="static/images/Capture3.PNG" width="400">
+    <img src="static/images/Capture4.PNG" width="400">
+  </div>
+</div>
+
+<h3 align="left">Interfectorem</h3>
+<p>Interfectorem was created for a 48-hour game jam, my friend Oscar animated and composed the music while I coded and arranged animations, effects, postprocessing and pretty much everything to do with Unity. Interfectorem is a top-down rougelike videogame with procedurally generated levels, it can be found and played at: https://whapy.itch.io/interfectorem-fixed.
+</p>
+
+<div class="row">
+  <div class="col">
     <img src="static/images/inter6.png" width="400">
     <img src="static/images/inter1.png" width="400">
   </div>
@@ -120,22 +137,5 @@ Here are some ideas to get you started:
   <div class="col">
     <img src="static/images/inter4.png" width="400">
     <img src="static/images/inter5.png" width="400">
-  </div>
-</div>
-
-<h3 align="left">Interfectorem</h3>
-<p>Interfectorem was created for a 48-hour game jam, my friend Oscar animated and composed the music while I coded and arranged animations, effects, postprocessing and pretty much everything to do with Unity. Interfectorem is a top-down rougelike videogame with procedurally generated levels, it can be found and played at: https://whapy.itch.io/interfectorem-fixed.
-</p>
-
-<div class="row">
-  <div class="col">
-    <img src="static/gifs/attts1.gif" width="400">
-    <img src="static/gifs/attts2.gif" width="400">
-  </div>
-</div>
-<div class="row">
-  <div class="col">
-    <img src="static/gifs/attts3.gif" width="400">
-    <img src="static/gifs/attts4.gif" width="400">
   </div>
 </div>
